@@ -1,7 +1,7 @@
 ### ℹ️ Antoine:~/antoine/contact $ show-contact-info
-e-mail: antoine.l@antoine-langlois.net
-Linkedin: [profile](https://www.linkedin.com/in/antoine-langlois-b03998150/)
-phone: +33.7.82.18.64.31
+e-mail: antoine.l@antoine-langlois.net. 
+Linkedin: [profile](https://www.linkedin.com/in/antoine-langlois-b03998150/). 
+phone: +33.7.82.18.64.31. 
 
 ### 👋 Antoine:~/antoine/me $ who-are-you
 Great question my friend !  
