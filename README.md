@@ -21,7 +21,7 @@ An old project that I really want to work on is my web app called `The Nomadic L
 I'm learning C++ and python. As I'm willing to work with as a professional, I'm looking for challenges to complete with these languages.  
 As I'm curious, I discover new techs each day and want to learn them (check out `FreeNAS` and `UNRAID`, they seem to be some dope tech !!).
 
-### 🤝 Antoine:~/antoine/collaborate $
+### 🤝 Antoine:~/antoine/collaborate $ collaborate
 Want to collaborate ? Sure ! Contact me and we'll start a conversation !
 
 ### Antoine:~/antoine/quote $ fav-quote 
