@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Antoine Langlois aka DataHearth</h1>
 <h3 align="center">Software developer and tech enthusiast</h3>
 
-- 🔭 I’m currently working on [tech-bot](https://gitea.antoine-langlois.net/datahearth/tech-bot)
+- 🔭 I'm currently working on [config-mapper (rework)](https://gitea.antoine-langlois.net/datahearth/config-mapper)
 
-- 🌱 I’m currently learning **Rust, Sveltekit, Flutter**
+- 🌱 I'm currently learning **Rust, htmx**
 
-- 👨‍💻 All of my projects are available at [https://gitea.antoine-langlois.net](https://gitea.antoine-langlois.net)
+- 👨‍💻 All of my projects are available on <https://gitea.antoine-langlois.net>
 
-- 📫 How to reach me **antoine.l@antoine-langlois.net**
+- 📫 How to reach me
+    - **Work - <work@antoine-langlois.net>**
+    - **Development - <dev@antoine-langlois.net>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
