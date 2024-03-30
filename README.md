@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine Langlois aka DataHearth</h1>
 <h3 align="center">Software developer and tech enthusiast</h3>
 
-- 🔭 I'm currently working on [config-mapper (rework)](https://gitea.antoine-langlois.net/datahearth/config-mapper)
+- 🔭 I'm currently working on [BitTorrent-rust (brs)](https://gitea.antoine-langlois.net/datahearth/bittorrent-rust)
 
 - 🌱 I'm currently learning **Rust, htmx**
 
