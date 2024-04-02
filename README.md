@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: [BitTorrent-Rust (`brs`)](https://gitea.antoine-langlois.net/DataHearth/brs)<br>🌱 I'm currently learning: `Rust` & `Nix`<br>⚡ Fun fact: I use `NixOS` BTW
+🔭 I'm currently working on: [BitTorrent-Rust (`brs`)](https://gitea.antoine-langlois.net/DataHearth/BitTorrent-Rust)<br>🌱 I'm currently learning: `Rust` & `Nix`<br>⚡ Fun fact: I use `NixOS` BTW
 
 
 ## 🌐 Socials:
